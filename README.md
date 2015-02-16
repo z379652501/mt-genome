@@ -1,6 +1,8 @@
 # mt-genome
 Perls scripts for large-scale analyses of mitochondrial genomes.
 
+Luo YJ, Endo K, Satoh N (2015) The variable mitochondrial genome of the brachiopod Lingula anatina and its implication for mitochondrial evolution in lophotrochozoans. (in preparation)
+
 ps01. genbank_db.pl
 Description: Get mt genome(s) in GenBank format.
 Usage example: perl genbank_db.pl Homo sapiens J01415
@@ -17,7 +19,7 @@ ps04. gb_get_all_gene_name.pl
 Description: Get gene names from protein-coding and rna genes from GenBank file.
 Usage example: perl gb_get_all_gene_name.pl Homo_sapiens.gb > Homo_sapiens_all.txt
 
-ps05. get_genbank_CDS_aa.pl 
+ps05. get_genbank_CDS_aa.pl
 Description: Get protein sequences in fasta format from the GenBank file with species name in the header.
 Usage example: perl get_genbank_CDS_aa.pl gene Homo_sapiens.gb > Homo_sapiens_aa.fasta
 
