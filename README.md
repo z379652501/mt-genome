@@ -1,4 +1,4 @@
-Perls scripts for large-scale analyses of mitochondrial genomes.
+Perl scripts for large-scale analyses of mitochondrial genomes.
 
 
 > Luo YJ, Endo K, Satoh N (2015) The variable mitochondrial genome of the brachiopod Lingula anatina and its implication for mitochondrial evolution in lophotrochozoans. (in preparation)
