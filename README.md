@@ -1,4 +1,3 @@
-# mt-genome
 Perls scripts for large-scale analyses of mitochondrial genomes.
 
 Luo YJ, Endo K, Satoh N (2015) The variable mitochondrial genome of the brachiopod Lingula anatina and its implication for mitochondrial evolution in lophotrochozoans. (in preparation)
@@ -27,18 +26,18 @@ ps06. get_genbank_cds_seq_nucl.pl
 Description: Get nucleotide sequences in fasta format from the GenBank file with species name in the header.
 Usage example: perl get_genbank_cds_seq_nucl.pl gene Homo_sapiens.gb > Homo_sapiens_nucl.fasta
 
-ps07.	gene_rename.pl
+ps07. gene_rename.pl
 Description: Convert mitochondrial gene names into consistent naming system.
 Usage example: perl gene_rename.pl all_aa.fasta > all_aa.renamed.fasta
 
 ps08. get_list_fasta.pl
 Description: Get the sequences from a fasta file corresponding to gene names within a list.
-Usage example: perl get_list_fasta.pl <list file> <fasta file>
+Usage example: perl get_list_fasta.pl
 
 ps09. get_fasta.pl
 Description: Get the sequence from fasta file using header name.
-Usage example: perl get_fasta.pl <head name> <fasta file>
+Usage example: perl get_fasta.pl
 
 ps10. get_gb_seq.pl
 Description: Get the whole mt genomic sequence.
-Usage example: perl get_gb_seq.pl  Homo_sapiens.gb >  Homo_sapiens.fa
+Usage example: perl get_gb_seq.pl Homo_sapiens.gb > Homo_sapiens.fa
