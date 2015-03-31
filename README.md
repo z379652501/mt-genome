@@ -1,7 +1,7 @@
 Perl scripts for large-scale analyses of mitochondrial genomes.
 
 
-> Luo YJ, Satoh N, Endo K(2015) The variable mitochondrial genome of the brachiopod Lingula anatina and its implications for mitochondrial evolution in lophotrochozoans. (submitted)
+> Luo YJ, Satoh N, Endo K (2015) The variable mitochondrial genome of the brachiopod Lingula anatina and its implications for mitochondrial evolution in lophotrochozoans. (submitted)
 
 * ps01. genbank_db.pl
 Description: Get mt genome(s) in GenBank format.
