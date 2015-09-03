@@ -1,7 +1,8 @@
 Perl scripts for large-scale analyses of mitochondrial genomes.
 
 
-> Luo YJ, Satoh N, Endo K (2015) Mitochondrial gene order variations of the brachiopod Lingula anatina and its implications for mitochondrial evolution in lophotrochozoans. (under revision)
+> Luo YJ, Satoh N, Endo K (2015) Mitochondrial gene order variation in the brachiopod Lingula anatina and its implications for mitochondrial evolution in lophotrochozoans. Marine Genomics, available online. doi: 10.1016/j.margen.2015.08.005
+http://www.sciencedirect.com/science/article/pii/S1874778715300210
 
 * ps01. genbank_db.pl
 Description: Get mt genome(s) in GenBank format.
